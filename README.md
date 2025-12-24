@@ -101,11 +101,9 @@ Performance comparison showed that gradient boosting models (LightGBM and XGBoos
 
 The final predictions were saved in the required submission format.
 
----
-
 ## Repository Structure
 
-
+```
 cinema-audience-forecasting-challenge/
 │
 ├── FinalNotebook.ipynb
@@ -114,10 +112,9 @@ cinema-audience-forecasting-challenge/
 ├── submission.csv
 │
 └── data/
-└── sample_data.csv
+    └── sample_data.csv
+```
 
-
----
 
 ## Libraries Used
 - Python  
