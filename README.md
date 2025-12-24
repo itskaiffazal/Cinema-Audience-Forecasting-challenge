@@ -104,6 +104,8 @@ The final predictions were saved in the required submission format.
 ---
 
 ## Repository Structure
+
+
 cinema-audience-forecasting-challenge/
 │
 ├── FinalNotebook.ipynb
@@ -113,7 +115,6 @@ cinema-audience-forecasting-challenge/
 │
 └── data/
 └── sample_data.csv
-
 
 
 ---
@@ -134,4 +135,4 @@ cinema-audience-forecasting-challenge/
 **Kaif Fazal**  
 📧 Email: 24f1000149@ds.study.iitm.ac.in  
 🔗 GitHub: https://github.com/itskaiffazal  
-🏆 Kaggle: https://www.kaggle.com/t/201782fb6ee74ea38497fcc97266ff79
+🏆 Kaggle: https://www.kaggle.com/kaiffazal
